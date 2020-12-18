@@ -1,1 +1,2 @@
-# Master-Chef
+In this recipe of mix vegetable recipe, i have vegetables like, potatoes, capsicum, cauliflower, paneer, carrot, peas and beans. but this recipe is completely open-ended and can be easily extended and mix and matched with other veggies too. for example, vegetables like, mushroom, broccoli, snow pea, tofu and eggplant can also be added as per the individual preference. i have skipped these veggies just to keep it simple and not overwhelm it. moreover, the recipe can be prepared with the desired consistency i.e in a thick curry or perhaps in a dry version.
+I personally like the semi-thick gravy and hence i have shared the same in this recipe.
